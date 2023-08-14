@@ -10,8 +10,8 @@ public class Main {
 //        System.out.println(a);
 //
 
-        String d = " Diablo is bad";
-        System.out.println(d.length());
+//        String d = " Diablo is bad";
+//        System.out.println(d.length());
 
         }
     }
